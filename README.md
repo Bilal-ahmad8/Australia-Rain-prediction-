@@ -1,4 +1,4 @@
-# Australia-Rain-prediction-
+# Data Science Portfolio-
 This my first ML project. The dataset is taken from Kaggle, it contains data for past 10 years. Major problem in dataset contains too much missing values, these values has been imputed with different strategies according to the % of missing values and distribution of variables.
 Notebook and Dataset is also provided 
 
