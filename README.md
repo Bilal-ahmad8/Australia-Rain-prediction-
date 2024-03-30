@@ -1,13 +1,14 @@
 # Data Science Portfolio
-My data science projects' collection, comprising academic, self-learning, and leisure endeavors, is showcased in this repository. The projects are presented in a user-friendly Jupyter notebook format.
+My data science project's collection, comprising academic, self-learning, and leisure endeavors, is showcased in this repository. The projects are presented in a user-friendly Jupyter notebook format.
 
 # Instructions for Running Python Notebooks Locally
 
-Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+Download and run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 # Contents
  - Machine Learning
-   - 
+   - Australia Rain Prediction : In this project the data set has been taken from kaggle. The data contains 10 years dataset of Australia's rain.Target is to predict wether it will rain tomorrow or not by considering different information of thr data.
+                                
 
 
 
